@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayDuplicate/ArrayDuplicate.iml" filepath="$PROJECT_DIR$/ArrayDuplicate/ArrayDuplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Day-5 Assignement.iml" filepath="$PROJECT_DIR$/.idea/Day-5 Assignement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrequencyCounter/FrequencyCounter.iml" filepath="$PROJECT_DIR$/FrequencyCounter/FrequencyCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneBook/PhoneBook.iml" filepath="$PROJECT_DIR$/PhoneBook/PhoneBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordOccurence/WordOccurence.iml" filepath="$PROJECT_DIR$/WordOccurence/WordOccurence.iml" />
+    </modules>
+  </component>
+</project>
